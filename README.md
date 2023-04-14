@@ -2,7 +2,7 @@
 This project presents a general framework for building a model to predict the impact of changes to car rental prices on demand. The main steps involved in the project are:
 
 ## Data Collection and Cleaning
-Data was collected from Kaggle, specifically Turo Rental Car Pricing Information in the United States. The data was cleaned and formatted to ensure its suitability for analysis.
+Data was collected from <a href="https://www.kaggle.com/datasets/theriley106/turo-rental-car-pricing-info">Kaggle</a>, specifically Turo Rental Car Pricing Information in the United States. The data was cleaned and formatted to ensure its suitability for analysis.
 
 ### Exploratory Data Analysis (Part 1)
 -	Insights into the relationship between rental prices and demand were gained through visualizing the data, calculating summary statistics, and identifying trends and patterns.
