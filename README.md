@@ -1,3 +1,4 @@
+
 # Car Rental Price on Demand
 This project presents a general framework for building a model to predict the impact of changes to car rental prices on demand. The main steps involved in the project are:
 
